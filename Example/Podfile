@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DRMacros_Tests' do
+  pod 'DRMacros', :path => '../'
+  
+  
+end
