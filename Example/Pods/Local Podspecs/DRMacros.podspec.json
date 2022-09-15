@@ -1,0 +1,26 @@
+{
+  "name": "DRMacros",
+  "version": "0.1.0",
+  "summary": "A short description of DRMacros.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shuiyue184480/DRMacros",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shuiyue184480": "1843089057@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/shuiyue184480/DRMacros.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DRMacros/Classes/**/*",
+  "prefix_header_contents": [
+    "#import <objc/runtime.h>",
+    "#import \"DRMacrosHeader.h\""
+  ]
+}

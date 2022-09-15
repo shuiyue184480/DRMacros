@@ -1,0 +1,6 @@
+framework module DRMacros {
+  umbrella header "DRMacros-umbrella.h"
+
+  export *
+  module * { export * }
+}

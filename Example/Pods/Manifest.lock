@@ -1,0 +1,16 @@
+PODS:
+  - DRMacros (0.1.0)
+
+DEPENDENCIES:
+  - DRMacros (from `../`)
+
+EXTERNAL SOURCES:
+  DRMacros:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DRMacros: b4e58dd52af167c4f23de6ead3e12a817446d79e
+
+PODFILE CHECKSUM: 6b0ea409130d85e5bd1f3aa43cb1cd3f69bc178b
+
+COCOAPODS: 1.11.2
